@@ -44,12 +44,12 @@ Preprocessing & Feature Engineering
 
 Model Selection – Linear Regression
 
-Model Evaluation – R² Score, MAE
+Model Evaluation – R² Score
 
 Interpretation of Results
 
 📈 Results
-R² Score: X.XX (fill in after evaluation)
+R² Score: 0.75 
 
 Key features affecting cost: Smoking status, BMI, Age
 
